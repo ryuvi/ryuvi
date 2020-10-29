@@ -4,7 +4,7 @@
 
 ## I'm a Student and Developer!
 - 🔭 I’m currently working as BackEnd Developer
-- 🌱 I’m currently learning more about Game Developing
+- 🌱 I’m currently learning more about C++ Language
 - 🥅 2020 Goals: Have at least one game playable and published
 - ⚡ Fun fact: I love to draw, play guitar and do some sports
 
