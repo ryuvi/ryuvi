@@ -40,3 +40,12 @@
 
 [instagram]: https://instagram.com/vi_rafinha
 [linkedin]: https://www.linkedin.com/in/virafinha/
+
+<br />
+<br />
+
+## Code Challenges Badges
+<br />
+- Code Wars
+
+![Code Wars Badge](https://www.codewars.com/users/ryuvi/badges/micro)
