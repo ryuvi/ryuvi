@@ -3,9 +3,9 @@
 ---
 
 ## I'm a Student and Developer!
-- 🔭 I’m currently working as BackEnd Developer
+
+- 🔭 I’m currently working as Bug Fixer
 - 🌱 I’m currently learning more about C++ Language
-- 🥅 2020 Goals: Have at least one game playable and published
 - ⚡ Fun fact: I love to draw, play guitar and do some sports
 
 ---
@@ -22,18 +22,25 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img src="https://simpleicons.org/icons/linux.svg" alt="Linux" width="22px">
+<img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="22px">
+<img src="https://simpleicons.org/icons/git.svg" alt="git" width="22px">
+<img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="vscode" width="22px">
+<img src="https://simpleicons.org/icons/visualstudio.svg" alt="Visual Studio" width="22px">
+<img src="https://simpleicons.org/icons/microsoftteams.svg" alt="Microsoft Teams" width="22px">
+<img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="22px">
+<img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="22px">
+<img src="https://simpleicons.org/icons/sass.svg" alt="SASS" width="22px">
+<img src="https://simpleicons.org/icons/microsoftsqlserver.svg" alt="Sql Server" width="22px">
+<img src="https://simpleicons.org/icons/mysql.svg" alt="My SQL" width="22px">
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="22px">
+<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="22px">
+<img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="22px">
+<img src="https://simpleicons.org/icons/csharp.svg" alt="csharp" width="22px">
+<img src="https://simpleicons.org/icons/dot-net.svg" alt="DotNet" width="22px">
+<img src="https://simpleicons.org/icons/node-dot-js.svg" alt="NodeJs" width="22px">
+<img src="https://simpleicons.org/icons/react.svg" alt="React" width="22px">
+<img src="https://simpleicons.org/icons/vue-dot-js.svg" alt="VueJS" width="22px">
 
 <br />
 <br />
@@ -45,6 +52,7 @@
 <br />
 
 ## Code Challenges Badges
+
 <br />
 - Code Wars
 
