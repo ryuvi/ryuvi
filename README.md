@@ -1,9 +1,13 @@
 # 💫 About Me:
 
-🔭 I'm currently working at FITec - Fundação de Inovações Tecnológicas as backend dev
+🔭 I'm currently working at FITec - Fundação de Inovações Tecnológicas as backend dev.
+
 🧠 My everyday language are C/C++, C#, Javascript/Typescript, Python, PHP and Bash.
+
 👫 I'm looking to collaborate on projects that uses these languages.
+
 🌱 I'm really want to learn GoLang and Rust.
+
 ⚡ Fun fact: I'm love playing games, listening to musics and having a good time with my wife.
 
 
