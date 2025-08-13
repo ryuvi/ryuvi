@@ -6,7 +6,7 @@
 
 👫 I'm looking to collaborate on projects that uses these languages.
 
-🌱 I'm really want to learn GoLang.
+🌱 I'm really want to learn GoLang and Ruby.
 
 ⚡ Fun fact: I'm love playing games, listening to musics and having a good time with my wife.
 
